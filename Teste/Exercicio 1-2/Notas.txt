@@ -1,0 +1,69 @@
+Para medir o valor de uma resistência em série usando um multímetro, siga os passos abaixo:
+
+1. Desligue a energia do circuito para evitar danos ao multímetro e ao circuito.
+
+2. Selecione a função de medição de resistência (Ohms) no multímetro.
+
+3. Conecte as pontas de prova do multímetro nas extremidades da resistência em série que você deseja medir.      Certifique-se de que as pontas de prova estejam em contato com as extremidades metálicas da resistência.
+
+4. Leia o valor da resistência no display do multímetro. O valor lido será o valor da resistência em Ohms.
+
+5. Desconecte as pontas de prova e restaure a energia do circuito.
+
+--------------------------------------------------------------------------------------------------------------
+
+Para medir a tensão imediatamente após uma resistência usando um multímetro, siga os passos abaixo:
+
+1. Desligue a energia do circuito para evitar danos ao multímetro e ao circuito.
+
+2. Selecione a função de medição de tensão contínua (DC) no multímetro.
+
+3. Conecte a ponta de prova vermelha do multímetro no lado do circuito que vem antes da resistência e a ponta de    prova preta no lado que vem depois da resistência.
+
+4. Ligue a energia do circuito.
+
+5. Leia o valor da tensão no display do multímetro. O valor lido será a tensão imediatamente após a resistência.
+
+--------------------------------------------------------------------------------------------------------------
+
+Para medir a corrente elétrica que passa através da primeira resistência em um circuito usando um multímetro, siga os passos abaixo:
+
+1. Desligue a energia do circuito para evitar danos ao multímetro e ao circuito.
+
+2. Selecione a função de medição de corrente contínua (DC) no multímetro e verifique se a faixa de medição    selecionada é maior do que a corrente máxima esperada no circuito.
+
+3. Conecte a ponta de prova vermelha do multímetro à extremidade do circuito que vem antes da primeira resistência.
+
+4. Conecte a ponta de prova preta do multímetro à extremidade do circuito que vem depois da primeira resistência.
+
+5. Ligue a energia do circuito.
+
+6. Leia o valor da corrente no display do multímetro. O valor lido será a corrente elétrica que passa através da    primeira resistência.
+
+--------------------------------------------------------------------------------------------------------------
+
+Para a equivalente de thevenin
+
+1. Colocar o voltimetro nos terminais da resistência por onde o sistema é visto
+
+2. Medir a voltagem nessa resistencia, e esse será o valor esperado
+
+3. Retirar a resistência por onde o sistema é visto
+
+4. Colocar o multimetro, para medir os volts entre os terminais antigas da resistência
+
+5. Medir essa tensão, que vai ser o valor da fonte na equivalente de thevenin (Vt)
+
+6. Fazer curto-circuito a fonte
+
+7. No mesmo sitio do multimetro, mudar para o medidor de resistência, em escala de ohm
+
+8. Medir a resistência, em curto circuito, nesse local, e obtemos a resistencia de thevening (Rt)
+
+9. Fazer o novo circuito com duas resistencias em serie (resistencia por onde o antigo circuito era visto, resistencia calculada (Rt))
+
+10. Ligar a fonte ao circuito
+
+11. Medir com o voltimetro, a voltagem da resistência por onde o antigo circuito era visto
+
+ 
