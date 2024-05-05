@@ -1,0 +1,36 @@
+Notas guião 4:
+
+cabo preto-nó de referência
+garra ponta de prova-> liga ao crocodilo vermelho
+botão wave- mudar forma de onda
+botão AMPL- amplitude
+mudar frequência- 2 shift (escolher frequência)
+x1/x10- atenuador de sinal
+	com botão multipropose
+botão scale(horizontal) -> variar tempo
+
+
+4.2
+b) v0= 0.5/1.5
+
+4.3
+   Vs- representado pelo azul
+   v0- representado pelo amarelo
+a)
+   resistência valor fixo 
+   frenquência aumenta -> resistência do condensador diminui
+   V0 -> filtro passa-baixo
+
+b)
+   1/5 = 0.2 ms
+
+c)
+  transições-> pico(sobe)
+  patamar -> zero
+  frequências baixas -> derivada mais próxima 
+  
+  
+   
+
+
+
