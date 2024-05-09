@@ -28,6 +28,13 @@ c)
   transições-> pico(sobe)
   patamar -> zero
   frequências baixas -> derivada mais próxima 
+
+
+4.4
+
+a) Quanto maior a frequência, menor a resistência, filtro passa baixo é v0
+
+b) fc = 1/(2pi x 10000 x 33*10^-9) = 482 Hz
   
   
    
