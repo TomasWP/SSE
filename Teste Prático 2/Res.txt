@@ -1,0 +1,11 @@
+1.
+
+	a) R2 = (G-1)R1 = (valor Kohm)
+	d) Aumentamos a amplitude do sinal emitido no gerador de funções no sinal de entrada e verificamos quanto e o Vin pico a pico quando o Vout começa a saturar. Pelo que o Vin max = (valor mV). Para isso Vout p-p = (valor V).
+	e) G = 1+R2/R1 O valor do ganho passou a ser 1, uma vez que a resistência que temos no fio é nula.
+
+2.
+	a) consultar fotos
+
+3. 
+	a) I = (vi-0,7)/R1 = (valor mA)

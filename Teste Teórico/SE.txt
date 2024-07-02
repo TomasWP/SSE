@@ -1,0 +1,121 @@
+Leis de Ohm
+V = +- R.I
+Se a entrada da resistência for positiva: V = R.I
+Se a entrada da resistência for negativa: V = -R.I
+R = V/I
+I = V/Z
+
+--------------------------------------------
+
+Fórmula Potência
+P = V.I
+P = V^2/R
+
+--------------------------------------------
+
+Divisor de Corrente
+I_2 = (R1/(R1+R2)).I_total
+R1 é a resistência oposta à que queremos
+
+--------------------------------------------
+
+Divisor de Tensão
+V_2 = (R1/(R1+R2)).V_total
+R1 é a resistência que queremos
+
+--------------------------------------------
+
+KVL
+-Vx + V1 + V2 + Vy
+O Vy pode ser negativo se sai do Vx com positivo e entra em Vy com negativo
+
+--------------------------------------------
+
+I = c.dV/dt
+ΔV = (I/c).t
+
+--------------------------------------------
+
+Para passa-alto: o condensador e o + está em cima
+
+
+--------------------------------------------
+
+Vc(0+) = xV que é a tensão da fonte onde "a" esteve ligado para t < 0
+
+--------------------------------------------
+
+Combinação de resistências em série:
+R_total = R1+R2+...+Rn
+
+Combinação de resistências em paralelo:
+1/R_total = 1/R1 + 1/R2 + ... + 1/Rn
+
+--------------------------------------------
+
+Torque (segundos)
+Torque = R.c
+
+--------------------------------------------
+
+Na descida:
+90% ----> 10% (80%)
+
+Na subida:
+10% ----> 90% (80%)
+
+--------------------------------------------
+
+Vimax = Vef.sqrt(2)
+
+--------------------------------------------
+
+Configuração inversora:
+O Vin está ligado à parte negativa do Opam
+
+Configuração não-inversora:
+O Vin está ligado à parte positiva do Opam
+
+Se não tiver uma resistência depois de Vin, é só ir pela fórmula:
+V0/Vi = 1 + (Rfeedback/Rentrada)
+
+Se tiver uma resistência depois de Vin, a fórmula é:
+V0/Vi = (R2/(R1+R2)).(1+(Rfeedback/Rentrada))
+
+--------------------------------------------
+
+Fórmula impedância absoluta:
+|z| = sqrt(R^2 + (1/w.c)^2 + (wL)^2)
+
+--------------------------------------------
+
+Ângulo de Fase:
+angulo = tan_-1((wL-1/w.c)/R)
+L - valor bobina
+w - 2.pi.F
+
+--------------------------------------------
+
+Ganho para decibéis:
+
+20.log_10(ganho)
+
+--------------------------------------------
+Thevenin
+
+Vthv = I * R
+
+R - resistência de Thevenin
+I - pode ser negativo se apontar para baixo
+
+--------------------------------------------
+
+Em paralelo:
+
+V1 = V2 = V3 = Vn
+I_total = I1 + I2 + ... + In
+
+Em série:
+
+Usar o divisor de tensão
+Usar o divisor de corrente

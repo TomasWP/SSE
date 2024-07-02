@@ -1,0 +1,26 @@
+6.1 a)
+	1. V_R1 = V_in - V_D		(V_R1 is the voltage across R1
+					 V_in is the input voltage
+					 V_D is the diode forward voltage)
+
+	2. V_R1 = 10 V - 0.7 V = 9.3 V
+
+	3. I_R1 = V_R1 / R1		(I_R1 is the current through R1)
+	   2 mA = 9.3 V / R1
+	   R1 = 9.3 V / 2 mA = 4650 Ω	(4700 - amarelo/violeta/vermelho)
+
+6.2 a)
+
+	1. 9,3 --- 100%
+	     x --- 5%			x = 0,465 V
+	
+	   Vr = 9,3 - 0,465 = 8,835 = 8,8 V
+
+	2. Vr = T/RC
+	   8,8 = (1/1000)/4650C
+	   C = 2,3 mF
+
+6.4 a)
+	1. I = V/R
+	   0,0075 A = 20/R
+	   R = 20 V/0,0075 A = 2666,7 Ω   (vermelho/azul-violeta/vermelho
